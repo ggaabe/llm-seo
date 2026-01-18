@@ -1,6 +1,6 @@
 {
-  "name": "ai-seo",
-  "version": "0.0.1",
+  "name": "markdown-seo",
+  "version": "",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
